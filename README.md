@@ -1,86 +1,79 @@
-<!-- ===================== HEADER ===================== -->
+<!-- ================= HEADER ================= -->
 
 <h1 align="center">Hi 👋, I'm Diya Shah</h1>
-<h3 align="center">IT Student | Mobile & Web Developer | AI Enthusiast</h3>
+
+<h3 align="center">
+Flutter Developer • AI Enthusiast • Software Engineer Aspirant
+</h3>
 
 <p align="center">
-🎓 Information Technology Student at CHARUSAT University (CSPIT) <br>
-💡 Passionate about building intelligent applications & solving real-world problems
+🎓 B.Tech Information Technology Student <br>
+📱 Building Scalable Mobile Applications using Flutter & Firebase <br>
+🤖 Passionate about AI-driven solutions & real-world problem solving
 </p>
 
 ---
 
 ## 🚀 About Me
 
-* 🎓 Diploma Graduate, currently pursuing **B.Tech in Information Technology**
-* 📱 Flutter Developer with backend integration experience
-* 🌐 Exploring Full-Stack Development using React
-* 🤖 Interested in AI-powered applications
-* ⚡ Focused on practical learning through projects
+- 💻 Flutter Developer focused on production-level mobile apps  
+- 🔥 Experience integrating **Firebase, Cloud Services & AI modules**
+- 🌐 Exploring **Full Stack Development (React + Backend)**
+- 🧠 Strong interest in **AI-powered applications**
+- ⚡ Project-driven learner building practical software solutions
+- 🎯 Actively seeking **Software Development Internship Opportunities**
+
+---
+
+## 🏆 Featured Project — JobFlow
+
+🚀 **JobFlow — AI Powered Job Management Platform**
+
+A smart recruitment ecosystem connecting **job seekers**, **companies**, and **administrators**.
+
+### ✨ Key Features
+- Secure Authentication & Role Management
+- Job Posting & Application Tracking
+- Resume Upload & Management
+- Real-time Notifications
+- AI-assisted workflow automation
+- Firebase Cloud Backend Integration
+
+**Tech Stack:**  
+`Flutter` • `Firebase` • `Cloud Firestore` • `Python AI Modules`
 
 ---
 
 ## 🚧 Current Project — CodeQuest
 
-💻 A **React-based Coding Platform** designed to make programming fun through:
+💻 React-based **Gamified Coding Platform**
 
-* Competitive coding challenges
-* Gamified learning experience
-* Interactive competitions
-* Skill-based progress tracking
-
----
-
-## 🧠 What I'm Currently Working On
-
-* Learning different modern technologies
-* Improving **problem-solving & critical thinking**
-* Exploring multiple tech domains
-* Building projects to strengthen practical understanding
-
----
-
-## 📱 Featured Projects
-
-### 🔹 JobFlow App
-
-AI-powered job management & recruitment application using **Flutter + Firebase**.
-
-### 🔹 AI Assistant App
-
-Smart assistant application developed in Flutter with automation features.
-
-### 🔹 Sentiment Analysis
-
-Machine learning project using **Python** for sentiment detection.
-
-### 🔹 Micro Projects
-
-5+ academic and development projects focused on strengthening fundamentals.
+- Competitive coding challenges
+- Skill-based progress tracking
+- Interactive learning system
+- Performance analytics dashboard
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 👩‍💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,dart,html,css" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=dart,python,java,html,css" />
 </p>
 
-### ⚙️ Technologies
-
-<p>
+### ⚙️ Frameworks & Tools
+<p align="center">
 <img src="https://skillicons.dev/icons?i=flutter,react,firebase,mongodb,mysql,git,github,vscode" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=diya2405&show_icons=true&theme=tokyonight" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=diya2405&theme=tokyonight" height="165"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=diya2405&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=diya2405&theme=tokyonight"/>
 </p>
 
 ---
@@ -93,12 +86,21 @@ Machine learning project using **Python** for sentiment detection.
 
 ---
 
-## 🌱 Learning Focus
+## 🧠 Learning Focus
 
-* Data Structures & Algorithms
-* Cryptography Concepts
-* Scalable Application Architecture
-* AI Integration in Apps
+- Data Structures & Algorithms
+- Scalable Mobile Architecture
+- Cloud-Based Application Design
+- AI Integration in Mobile Apps
+- System Design Fundamentals
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
+</p>
 
 ---
 
@@ -113,5 +115,5 @@ Machine learning project using **Python** for sentiment detection.
 ---
 
 <p align="center">
-⭐ <b>Learning. Building. Improving. Every Day.</b>
+⭐ Building Intelligent Applications • Learning Every Day • Growing as an Engineer
 </p>
