@@ -56,7 +56,7 @@ Machine learning project using **Python** for sentiment detection.
 
 ### 🔹 Micro Projects
 
-5+ academic and development projects focused on strengthening fundamentals.
+10+ academic and development projects focused on strengthening fundamentals.
 
 ---
 
