@@ -1,66 +1,84 @@
 <!-- ===================== HEADER ===================== -->
 
 <h1 align="center">Hi 👋, I'm Diya Shah</h1>
-<h3 align="center">IT Student | Mobile & Web Developer | AI Enthusiast</h3>
+<h3 align="center">IT Student | Flutter Developer | AI & Full-Stack Enthusiast</h3>
 
 <p align="center">
-🎓 Information Technology Student at CHARUSAT University (CSPIT) <br>
-💡 Passionate about building intelligent applications & solving real-world problems
+🎓 B.Tech Information Technology Student <br>
+📱 Passionate about Mobile App Development & Intelligent Systems <br>
+🚀 Building real-world applications using Flutter, Firebase & Modern Web Technologies
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-* 🎓 Diploma Graduate, currently pursuing **B.Tech in Information Technology**
-* 📱 Flutter Developer with backend integration experience
-* 🌐 Exploring Full-Stack Development using React
-* 🤖 Interested in AI-powered applications
-* ⚡ Focused on practical learning through projects
-
----
-
-## 🚧 Current Project — CodeQuest
-
-💻 A **React-based Coding Platform** designed to make programming fun through:
-
-* Competitive coding challenges
-* Gamified learning experience
-* Interactive competitions
-* Skill-based progress tracking
+- 🎓 Diploma in Information Technology graduate, currently pursuing **B.Tech in IT**
+- 📱 Flutter developer with **Firebase backend integration**
+- 🌐 Exploring **Full Stack Development with React**
+- 🤖 Interested in **AI-powered applications and automation**
+- 🧠 Always learning new technologies and improving problem-solving skills
+- 💡 Focused on building **practical, real-world projects**
 
 ---
 
-## 🧠 What I'm Currently Working On
+# 💻 Featured Projects
 
-* Learning different modern technologies
-* Improving **problem-solving & critical thinking**
-* Exploring multiple tech domains
-* Building projects to strengthen practical understanding
+### 🤖 AI Assistant App
+A multi-functional AI mobile application built using Flutter.
 
----
+**Features**
+- AI Chatbot interaction  
+- AI Image generation from text prompts  
+- Language translation  
+- Clean and responsive mobile UI  
 
-## 📱 Featured Projects
-
-### 🔹 JobFlow App
-
-AI-powered job management & recruitment application using **Flutter + Firebase**.
-
-### 🔹 AI Assistant App
-
-Smart assistant application developed in Flutter with automation features.
-
-### 🔹 Sentiment Analysis
-
-Machine learning project using **Python** for sentiment detection.
-
-### 🔹 Micro Projects
-
-10+ academic and development projects focused on strengthening fundamentals.
+**Tech Used**
+Flutter • Dart • Firebase • AI APIs
 
 ---
 
-## 🛠️ Tech Stack
+### 💼 JobFlow App
+AI-powered job management and recruitment platform.
+
+**Features**
+- Job tracking and management  
+- Resume and candidate organization  
+- AI integration for productivity  
+
+**Tech Used**
+Flutter • Firebase • AI Integration
+
+---
+
+### 🧠 Sentiment Analysis
+Machine learning project for detecting sentiment from text data.
+
+**Tech Used**
+Python • NLP • Machine Learning
+
+---
+
+### 🧪 Micro Projects
+Worked on **10+ small development projects** to strengthen programming fundamentals and explore different technologies.
+
+---
+
+# 🚧 Current Project
+
+## 💻 CodeQuest – Coding Platform
+
+A **React-based coding platform** designed to make programming learning interactive and engaging.
+
+**Key Features**
+- Competitive coding challenges  
+- Gamified learning experience  
+- Skill-based progress tracking  
+- Interactive coding competitions  
+
+---
+
+# 🛠 Tech Stack
 
 ### 👩‍💻 Languages
 
@@ -68,7 +86,7 @@ Machine learning project using **Python** for sentiment detection.
 <img src="https://skillicons.dev/icons?i=python,java,dart,html,css" />
 </p>
 
-### ⚙️ Technologies
+### ⚙️ Frameworks & Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=flutter,react,firebase,mongodb,mysql,git,github,vscode" />
@@ -76,7 +94,7 @@ Machine learning project using **Python** for sentiment detection.
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=diya2405&show_icons=true&theme=tokyonight" height="165"/>
@@ -85,7 +103,7 @@ Machine learning project using **Python** for sentiment detection.
 
 ---
 
-## 📈 Most Used Languages
+# 📈 Most Used Languages
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diya2405&layout=compact&theme=tokyonight"/>
@@ -93,25 +111,25 @@ Machine learning project using **Python** for sentiment detection.
 
 ---
 
-## 🌱 Learning Focus
+# 🌱 Currently Learning
 
-* Data Structures & Algorithms
-* Cryptography Concepts
-* Scalable Application Architecture
-* AI Integration in Apps
+- Data Structures & Algorithms
+- Cryptography Fundamentals
+- Scalable Application Architecture
+- AI Integration in Mobile & Web Apps
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
-<p align="center"><br>
-<a href="https://github.com/diya2405">GitHub</a> <br>
-<a href="https://www.linkedin.com/in/diya-shah-85ba49308/">LinkedIn</a> <br>
+<p align="center">
+<a href="https://github.com/diya2405">GitHub</a> |
+<a href="https://www.linkedin.com/in/diya-shah-85ba49308/">LinkedIn</a> |
 <a href="mailto:diyanamya@gmail.com">Email</a>
 </p>
 
 ---
 
 <p align="center">
-⭐ <b>Learning. Building. Improving. Every Day.</b>
+⭐ <b>Building useful technology, learning continuously, and growing every day.</b>
 </p>
