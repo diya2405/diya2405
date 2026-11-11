@@ -136,11 +136,6 @@
       </p>
       <p><b>Multi-model AI assistant mobile app built with Flutter</b></p>
     </td>
-    <td width="50%" valign="top">
-      <h4>🏆 IBM Bob Hackathon 2026: Winning Project</h4>
-      
-      <p><i>Add the project name, a one-line summary and the repo link here.</i></p>
-    </td>
   </tr>
 </table>
 
