@@ -65,7 +65,6 @@
     <td width="45%" valign="top">
       <h3>Achievements. 🏆</h3>
       <ul>
-        <li>🏆 <b>Winner</b>, IBM Bob Hackathon 2026</li>
         <li>🥉 <b>3rd place</b>, CHARUSAT × IBM AI Innovation Hackathon</li>
         <li>🔐 <b>4th position</b>, CyberKavach CTF (OSINT and ethical hacking)</li>
         <li>🎖️ <b>All Gujarat Rank 58</b>, DDCET (20,000+ students)</li>
@@ -139,7 +138,7 @@
     </td>
     <td width="50%" valign="top">
       <h4>🏆 IBM Bob Hackathon 2026: Winning Project</h4>
-      <p><b>Winner, IBM Bob Hackathon 2026.</b></p>
+      
       <p><i>Add the project name, a one-line summary and the repo link here.</i></p>
     </td>
   </tr>
